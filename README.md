@@ -23,6 +23,6 @@
 * Realize o merge do projeto. Ex: git merge master upstream/master
 * Faça as alterações desejadas
 
-### Erros e sugestões
+### Contato
 
-* Envie erros e sugestões do projeto para airtonzanon@gmail.com 
+* Airton Zanon - airtonzanon@gmail.com 
